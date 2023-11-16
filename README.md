@@ -1,1 +1,1 @@
-# open-gamee editor
+# open-game editor
